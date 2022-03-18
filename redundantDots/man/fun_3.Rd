@@ -14,7 +14,18 @@ fun_3(arg1, arg2, arg3)
 }
 \details{
   Details.
+
+  a doi: \doi{10.18637/jss.v040.i03}
+
+  another doi: \doi{10.1016/S0024-3795(01)00475-X}
 }
+
+\RdOpts{stage=build}
+\references{
+ a doi: \doi{10.18637/jss.v040.i03}
+}
+\RdOpts{stage=install}
+
 \examples{
 fun_3()
 }
