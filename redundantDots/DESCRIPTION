@@ -16,6 +16,9 @@ Description:
     R version 3.6.0 beta (2019-04-16 r76403),
     R version 3.5.3 (2019-03-11) and
     R version 3.4.4 (2018-03-15).
+    An unrelated bug report on doi's was added in March 2022, see
+    <https://stat.ethz.ch/pipermail/r-devel/2022-March/081570.html>
+    and <https://stat.ethz.ch/pipermail/r-devel/2022-March/081579.html>.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
